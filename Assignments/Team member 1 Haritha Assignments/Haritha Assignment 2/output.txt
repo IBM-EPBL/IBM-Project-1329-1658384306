@@ -1,0 +1,4 @@
+Temp=25.5*C Humidity=59.1%
+Temp=25.5*C Humidity=59.1%
+Temp=25.5*C Humidity=59.1%
+Temp=25.4*C Humidity=59.0%
